@@ -1,0 +1,16 @@
+name: ServerStatusPlugin
+version: 1.3
+main: com.maijsoft.serverstatus.Main
+api-version: 1.21
+author: MAIJSOFT
+description: Displays server resource usage, TPS, and world-specific stats via a command.
+
+commands:
+  status:
+    description: Displays the current server and world status.
+    usage: /status
+    permission: serverstatus.use
+permissions:
+  serverstatus.use:
+    description: Allows the user to run the /status command.
+    default: true
