@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2024 MAIJSOFT Dev
+ * Copyright (C) 2025 MAIJSOFT Dev
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
