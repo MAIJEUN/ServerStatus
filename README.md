@@ -1,4 +1,4 @@
-# serverstatus
+# ServerStatus
 > /status
 명령어 사용
 
